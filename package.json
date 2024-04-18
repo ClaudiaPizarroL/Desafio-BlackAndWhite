@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}

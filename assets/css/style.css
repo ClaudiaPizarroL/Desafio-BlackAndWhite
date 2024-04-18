@@ -1,0 +1,20 @@
+/* Aquí puedes definir los estilos CSS para el formulario */
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+}
+
+input, button {
+    margin: 10px;
+}
